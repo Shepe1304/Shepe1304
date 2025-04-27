@@ -67,14 +67,7 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 <div align="center">
   
   <!-- Your Top Projects -->
-  <a href="https://github.com/Shepe1304/chatlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=chatlas&theme=tokyonight" />
-  </a>
   
-  <a href="https://github.com/Shepe1304/foice-detect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=foice-detect&theme=tokyonight" />
-  </a>
-
   <!-- Additional Projects -->
   <a href="https://github.com/MinhhQuangg/Azure_App_BE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight" />
@@ -104,8 +97,8 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=historical-figures-trivia-2&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/Shepe1304/data-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=data-dashboard&theme=tokyonight" />
+  <a href="https://github.com/Shepe1304/data-dashboard-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=data-dashboard-2&theme=tokyonight" />
   </a>
 
 </div>
@@ -151,51 +144,6 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 </div>
 
 <div align="center">
-  
-  <!-- Your Top Projects -->
-  <a href="https://github.com/Shepe1304/chatlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=chatlas&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/Shepe1304/foice-detect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=foice-detect&theme=tokyonight" />
-  </a>
-
-  <!-- Additional Projects -->
-  <a href="https://github.com/MinhhQuangg/Azure_App_BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/MinhhQuangg/Azure_Hack_FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/dahomita/foicedetect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/bookhub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=bookhub&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/pathFinder_visibilityGraph_djikstra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=pathFinder_visibilityGraph_djikstra&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/BookCoverExplorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=BookCoverExplorer&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/historical-figures-trivia-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=historical-figures-trivia-2&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/data-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=data-dashboard&theme=tokyonight" />
-  </a>
-
-</div>
-
 
 
 ## 🌱 Currently Learning
