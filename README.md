@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Quynh Giang Ho (Shepe1304)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Application+Developer;Research+Assistant" alt="Typing SVG" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quynhgiangho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hqgiang1346@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Shepe1304)
@@ -8,9 +12,15 @@
 
 I'm a Computer Science student at the University of South Florida (Judy Genshaft Honors College) with a perfect 4.0 GPA. My passion lies at the intersection of AI, machine learning, and application development. I'm currently working on AI-based classification models and multilingual chat applications, and I've had the privilege of contributing to research in digital signal processing and embedded systems.
 
-Winner of Nosu AI Hackathon's Cybersecurity Track (among 1,500 participants) with my AI Voice Authentication System, I enjoy solving complex problems with elegant technical solutions.
+4x Hackathon winner, with a victory rate of 80% :D! I enjoy solving complex problems with elegant technical solutions.
 
 ## 🧠 Technical Expertise
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,html,css,react,nodejs,django,express,nextjs,tensorflow,mongodb,postgres,firebase,git,docker,azure&perline=10" />
+  </a>
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -54,6 +64,15 @@ Winner of Nosu AI Hackathon's Cybersecurity Track (among 1,500 participants) wit
 
 ## 🔭 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/Shepe1304/chatlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=chatlas&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shepe1304/foice-detect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=foice-detect&theme=tokyonight" />
+  </a>
+</div>
+
 ### [Chatlas: Multilingual Chat App](https://github.com/Shepe1304/chatlas)
 *React.js, Node.js, Express.js, Azure AI, PostgreSQL*
 
@@ -84,11 +103,35 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shepe1304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shepe1304&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shepe1304&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/Shepe1304">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=tokyonight&row=1&column=6" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Shepe1304/chatlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=chatlas&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shepe1304/foice-detect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=foice-detect&theme=tokyonight" />
+  </a>
+</div>
+
+
 ## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://via.placeholder.com/15/4285F4/000000?text=+" width="12" height="12" /> Advanced Natural Language Processing
+  <img src="https://via.placeholder.com/15/EA4335/000000?text=+" width="12" height="12" /> Computer Vision with Deep Learning
+  <img src="https://via.placeholder.com/15/FBBC05/000000?text=+" width="12" height="12" /> Cloud Architecture & DevOps
+  <img src="https://via.placeholder.com/15/34A853/000000?text=+" width="12" height="12" /> Microservices Architecture
+  <img src="https://via.placeholder.com/15/7B36D7/000000?text=+" width="12" height="12" /> Blockchain Development
+</div>
+
 
 - Advanced Natural Language Processing
 - Computer Vision with Deep Learning
@@ -96,9 +139,13 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 - Microservices Architecture
 - Blockchain Development
 
+<div align="center">
+  <img alt="Quynh Giang Ho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shepe1304&theme=tokyo-night" />
+</div>
+
 ## 💬 Let's Connect!
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, research, or potential projects!
+Feel free to reach out if you want to discuss tech, research, or potential projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quynhgiangho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hqgiang1346@gmail.com)
@@ -107,4 +154,8 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shepe1304&color=blueviolet&style=flat-square" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shepe1304/count.svg" alt="Visitor Count" />
 </div>
