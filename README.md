@@ -101,8 +101,8 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shepe1304&show_icons=true&theme=radical&bg_color=0D1117&border_color=6F42C1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shepe1304&layout=compact&theme=radical&bg_color=0D1117&border_color=6F42C1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=00000000" />
 </div>
 
 <div align="center">
