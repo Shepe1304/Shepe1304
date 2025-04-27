@@ -24,9 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at the University of South Florida (Judy Genshaft Honors College) with a perfect 4.0 GPA. My passion lies at the intersection of AI, machine learning, and application development. I'm currently working on AI-based classification models and multilingual chat applications, and I've had the privilege of contributing to research in digital signal processing and embedded systems.
-
-4x Hackathon winner, with a victory rate of 80% :D! I enjoy solving complex problems with elegant technical solutions.
+Computer Science student @ University of South Florida (Judy Genshaft Honors College), 4.0 GPA || 4x Hackathon Winner, 80% Victory Rate || I enjoy solving complex problems with elegant technical solutions.
 
 <!-- Animated tech stack icons -->
 ## 🧠 Technical Expertise
