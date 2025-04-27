@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Quynh Giang Ho (Shepe1304)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Application+Developer;Research+Assistant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Application+Developer;Research+Assistant" alt="Typing SVG" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quynhgiangho/)
@@ -15,12 +15,6 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 4x Hackathon winner, with a victory rate of 80% :D! I enjoy solving complex problems with elegant technical solutions.
 
 ## 🧠 Technical Expertise
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,html,css,react,nodejs,django,express,nextjs,tensorflow,mongodb,postgres,firebase,git,docker,azure&perline=10" />
-  </a>
-</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -64,61 +58,21 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 
 ## 🔭 Featured Projects
 
-<div align="center">
-  
-  <!-- Your Top Projects -->
-  
-  <!-- Additional Projects -->
-  <a href="https://github.com/MinhhQuangg/Azure_App_BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/MinhhQuangg/Azure_Hack_FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/dahomita/foicedetect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/bookhub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=bookhub&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/pathFinder_visibilityGraph_djikstra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=pathFinder_visibilityGraph_djikstra&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/BookCoverExplorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=BookCoverExplorer&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/historical-figures-trivia-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=historical-figures-trivia-2&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Shepe1304/data-dashboard-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=data-dashboard-2&theme=tokyonight" />
-  </a>
-
-</div>
-
-
-### [Chatlas: Multilingual Chat App](https://github.com/Shepe1304/chatlas)
+### [Chatlas: Multilingual Chat App](https://devpost.com/software/chatlas)
 *React.js, Node.js, Express.js, Azure AI, PostgreSQL*
 
 🏆 **Best Azure App Integration at Azure AI Developer Hackathon**
 
 Breaking language barriers with real-time translation across 100+ languages. This group chat application automatically translates messages based on each user's preferred language, with speech-to-text functionality via Azure.
 
-### [FoiceDetect: AI Voice Authentication System](https://github.com/Shepe1304/foice-detect)
+### [FoiceDetect: AI Voice Authentication System](https://github.com/dahomita/foicedetect)
 *React.js, Python, Django, SQLite, REST*
 
 🏆 **1st Place, Cybersecurity Track at Nosu AI Hackathon**
 
 Detecting fraudulent voice recordings with 94% accuracy using custom machine learning models to analyze audio signatures and detect deepfake manipulation patterns.
 
-### [Advanced Pathfinding Visualization](https://github.com/Shepe1304/pathfinding-visualization)
+### [Advanced Pathfinding Visualization](https://github.com/Shepe1304/pathFinder_visibilityGraph_djikstra)
 *Python, Tkinter*
 
 Interactive visualization of optimal pathfinding using Dijkstra's algorithm and visibility graphs, with sub-0.2s computation on graphs with 1,000+ nodes.
