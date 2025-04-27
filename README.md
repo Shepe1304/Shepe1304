@@ -144,11 +144,6 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
   </table>
 </div>
 
-<!-- Female learning animation -->
-<div align="center">
-  <img alt="Learning" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-</div>
-
 <!-- Animated divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
