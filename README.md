@@ -75,7 +75,7 @@ Interactive visualization of optimal pathfinding using Dijkstra's algorithm and 
 
 ## 🔬 Research Experience
 
-Currently working as an **Application Developer & Researcher** at the **LAM²P Laboratory**, where I'm developing AI-based classification models for superhydrophobic surfaces and building efficient data extraction pipelines.
+Currently working as an **Application Developer & Researcher** at the **LAM²\P Laboratory**, where I'm developing AI-based classification models for superhydrophobic surfaces and building efficient data extraction pipelines.
 
 Previously, I was a **Research Assistant** at the **Digital Signal Processing And Embedded Systems Laboratory (DESLab)**, implementing CNN and YOLOv8 on Jetson Nano for real-time blink rate calculation in lie-detection analysis.
 
