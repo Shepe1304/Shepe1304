@@ -57,17 +57,19 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 
 ## 🔭 Featured Projects
 
-<!-- Animated project cards with hover effect and improved visibility -->
+<!-- Project cards with updated Tokyo Night theme and transparent background -->
 <div align="center">
   <a href="https://devpost.com/software/chatlas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=00000000" />
+  </a>
+  <a href="https://devpost.com/software/chatlas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/dahomita/foicedetect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=radical&bg_color=0D1117&border_color=6F42C1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/Shepe1304/pathFinder_visibilityGraph_djikstra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=pathFinder_visibilityGraph_djikstra&theme=radical&bg_color=0D1117&border_color=6F42C1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=pathFinder_visibilityGraph_djikstra&theme=tokyonight&bg_color=00000000" />
   </a>
 </div>
 
@@ -96,19 +98,21 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 
 ## 📊 GitHub Stats
 
-<!-- Animated stats cards with improved visibility -->
+<!-- Animated stats cards with improved visibility and consistent theme -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shepe1304&theme=radical&background=0D1117&border=6F42C1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shepe1304&theme=tokyonight&background=00000000&border=6F42C1" alt="GitHub Streak" />
 </div>
 
+<!-- Additional project cards with Tokyo Night theme -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=00000000" />
 </div>
 
+<!-- GitHub trophies with updated theme -->
 <div align="center">
   <a href="https://github.com/Shepe1304">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=radical&row=1&column=6" />
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=tokyonight&row=1&column=6&no-bg=true" />
   </a>
 </div>
 
@@ -148,9 +152,9 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 
 ## 📈 Activity Graph
 
-<!-- Animated activity graph with improved visibility -->
+<!-- Animated activity graph with Tokyo Night inspired colors -->
 <div align="center">
-  <img alt="Quynh Giang Ho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shepe1304&theme=rogue&bg_color=0D1117&color=C77DFF&line=E867FF&point=FFFFFF&hide_border=false" />
+  <img alt="Quynh Giang Ho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shepe1304&theme=tokyo-night&bg_color=00000000&color=70a5fd&line=70a5fd&point=38bdae&hide_border=false" />
 </div>
 
 <!-- Animated divider -->
@@ -173,9 +177,9 @@ Feel free to reach out if you want to discuss tech, research, or potential proje
 </div>
 
 <!-- Animated wave bottom -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C77DFF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer" />
 
 <!-- Visitor counter with animation -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shepe1304&color=C77DFF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shepe1304&color=70a5fd&style=flat-square" alt="Profile views"/>
 </div>
