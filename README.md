@@ -110,12 +110,7 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
   <img src="https://via.placeholder.com/15/7B36D7/000000?text=+" width="12" height="12" /> Blockchain Development
 </div>
 
-
-- Advanced Natural Language Processing
-- Computer Vision with Deep Learning
-- Cloud Architecture & DevOps
-- Microservices Architecture
-- Blockchain Development
+# Activity Graph
 
 <div align="center">
   <img alt="Quynh Giang Ho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shepe1304&theme=tokyo-night" />
