@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 
-Computer Science student @ University of South Florida (Judy Genshaft Honors College), 4.0 GPA
-4x Hackathon Winner, 80% Victory Rate
-I enjoy solving complex problems with elegant technical solutions.
+<div>Computer Science student @ University of South Florida (Judy Genshaft Honors College), 4.0 GPA</div>
+<div>4x Hackathon Winner, 80% Victory Rate</div>
+<div>I enjoy solving complex problems with elegant technical solutions.</div>
 
 <!-- Animated tech stack icons -->
 ## 🧠 Technical Expertise
