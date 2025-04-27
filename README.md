@@ -57,6 +57,8 @@ Winner of Nosu AI Hackathon's Cybersecurity Track (among 1,500 participants) wit
 ### [Chatlas: Multilingual Chat App](https://github.com/Shepe1304/chatlas)
 *React.js, Node.js, Express.js, Azure AI, PostgreSQL*
 
+🏆 **Best Azure App Integration at Azure AI Developer Hackathon**
+
 Breaking language barriers with real-time translation across 100+ languages. This group chat application automatically translates messages based on each user's preferred language, with speech-to-text functionality via Azure.
 
 ### [FoiceDetect: AI Voice Authentication System](https://github.com/Shepe1304/foice-detect)
@@ -73,9 +75,11 @@ Interactive visualization of optimal pathfinding using Dijkstra's algorithm and 
 
 ## 🔬 Research Experience
 
-Currently working as an **Application Developer & Researcher** at the **LAM² Laboratory**, where I'm developing AI-based classification models for superhydrophobic surfaces and building efficient data extraction pipelines.
+Currently working as an **Application Developer & Researcher** at the **LAM²P Laboratory**, where I'm developing AI-based classification models for superhydrophobic surfaces and building efficient data extraction pipelines.
 
 Previously, I was a **Research Assistant** at the **Digital Signal Processing And Embedded Systems Laboratory (DESLab)**, implementing CNN and YOLOv8 on Jetson Nano for real-time blink rate calculation in lie-detection analysis.
+
+🏆 **3rd Place at PTNK Initiative in Interdisciplinary Science & Engineering Research Symposium**
 
 ## 📊 GitHub Stats
 
