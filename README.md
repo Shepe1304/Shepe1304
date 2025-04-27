@@ -127,6 +127,10 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 <div align="center">
   <table border="0" align="center">
     <tr>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Frontend Development</td>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Backend Development</td>
+    </tr>
+    <tr>
       <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Natural Language Processing</td>
       <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Computer Vision with Deep Learning</td>
     </tr>
