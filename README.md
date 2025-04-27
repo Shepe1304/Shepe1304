@@ -60,7 +60,8 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 <!-- Animated project cards with hover effect -->
 <div align="center">
   <a href="https://devpost.com/software/chatlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=chatlas&theme=tokyonight&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_BE&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/dahomita/foicedetect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight&bg_color=00000000" />
