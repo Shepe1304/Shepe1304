@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Quynh Giang Ho (Shepe1304). You can call me Giang!
+# 👋 Hi there, I'm Giang (Quynh Giang Ho) a.k.a Shepe1304!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Application+Developer;Research+Assistant" alt="Typing SVG" />
