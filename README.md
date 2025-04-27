@@ -61,7 +61,7 @@ I'm a Computer Science student at the University of South Florida (Judy Genshaft
 <div align="center">
   <a href="https://devpost.com/software/chatlas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_BE&theme=tokyonight&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/dahomita/foicedetect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight&bg_color=00000000" />
