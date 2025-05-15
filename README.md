@@ -60,6 +60,9 @@
 <!-- Project cards with updated darker Tokyo Night theme for better visibility on white background -->
 <div align="center">
   <a href="https://devpost.com/software/chatlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanKhanhAnny&repo=gnec&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
+  </a>
+  <a href="https://devpost.com/software/chatlas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
   </a>
   <a href="https://devpost.com/software/chatlas">
