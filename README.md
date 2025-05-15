@@ -55,6 +55,44 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
 </div>
 
+## 🚀 Hackathon Achievements
+
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> HackUSF - <b>Best AI Healthcare</b> (2025)</td>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> Azure AI Developer Hackathon - <b>1st Place</b> (2025)</td>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> Nosu AI Hackathon - <b>Best Cybersecurity Project</b> (2025)</td>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> 4x Hackathon Winner with 80% Victory Rate</td>
+    </tr>
+  </table>
+</div>
+<!-- Animated award badge -->
+<div align="center">
+  <img alt="Awards" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ozemFsa2FsNDNyNmRtcW5jZW9iOHQ1cGE4NDhpeWZ5bG82dnNsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRaZAmbiaZYHvO7tAe/giphy.gif">
+</div>
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
+</div>
+
+## 🏆 Honors and Awards
+
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> USF Green & Gold Presidential Scholarship</td>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> Dean's List (USF)</td>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> Genspiration Global Explorers</td>
+      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3OWNhZTk5NTk0YWJlMWRlOTFiNDFiZjg2ZDJiZThjMjZmY2VmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QBw60GiJobUJ8A7TdT/giphy.gif" /> 3rd Place at PTNK Initiative in Interdisciplinary Science & Engineering Research Symposium</td>
+    </tr>
+  </table>
+</div>
+
 ## 🔭 Featured Projects
 
 <!-- Project cards with updated darker Tokyo Night theme for better visibility on white background -->
