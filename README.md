@@ -55,6 +55,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
 </div>
 
+<!-- Animated award badge replaced with text -->
+<div align="center">
+  <h2>🏆 AWARDS & ACHIEVEMENTS 🏆</h2>
+</div>
+<!-- Animated divider replaced with text -->
+<div align="center">
+  <hr style="border: 1px solid #4CAF50; width: 80%;">
+</div>
+
 ## 🚀 Hackathon Achievements
 
 <div align="center">
@@ -68,14 +77,6 @@
       <td>🏆 4x Hackathon Winner with 80% Victory Rate</td>
     </tr>
   </table>
-</div>
-<!-- Animated award badge replaced with text -->
-<div align="center">
-  <h2>🏆 AWARDS & ACHIEVEMENTS 🏆</h2>
-</div>
-<!-- Animated divider replaced with text -->
-<div align="center">
-  <hr style="border: 1px solid #4CAF50; width: 80%;">
 </div>
 
 ## 🏆 Honors and Awards
