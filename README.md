@@ -59,10 +59,6 @@
 <div align="center">
   <h2>🏆 AWARDS & ACHIEVEMENTS 🏆</h2>
 </div>
-<!-- Animated divider replaced with text -->
-<div align="center">
-  <hr style="border: 1px solid #4CAF50; width: 80%;">
-</div>
 
 ## 🚀 Hackathon Achievements
 
