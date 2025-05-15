@@ -60,7 +60,7 @@
   <h2>🏆 AWARDS & ACHIEVEMENTS 🏆</h2>
 </div>
 
-## 🚀 Hackathon Achievements
+## 🏆 Hackathon Achievements
 
 <div align="center">
   <table border="0" align="center">
@@ -75,7 +75,7 @@
   </table>
 </div>
 
-## 🏆 Honors and Awards
+## 🎓 Honors and Awards
 
 <div align="center">
   <table border="0" align="center">
