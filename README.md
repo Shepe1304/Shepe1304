@@ -90,6 +90,11 @@
   </table>
 </div>
 
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
+</div>
+
 ## 🔭 Featured Projects
 
 <!-- Project cards with updated darker Tokyo Night theme for better visibility on white background -->
