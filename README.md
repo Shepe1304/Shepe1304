@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td>🏆 Nosu AI Hackathon - <b>Best Cybersecurity Project</b> (2025)</td>
-      <td>🏆 4x Hackathon Winner with 80% Victory Rate</td>
+      <td>🏆 4x Hackathon Winner</td>
     </tr>
   </table>
 </div>
