@@ -99,14 +99,11 @@
 
 <!-- Project cards with updated darker Tokyo Night theme for better visibility on white background -->
 <div align="center">
-  <a href="https://devpost.com/software/chatlas">
+  <a href="https://github.com/VanKhanhAnny/gnec">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanKhanhAnny&repo=gnec&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
   </a>
-  <a href="https://devpost.com/software/chatlas">
+  <a href="https://github.com/MinhhQuangg/Azure_Hack_FE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  </a>
-  <a href="https://devpost.com/software/chatlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
   </a>
   <a href="https://github.com/dahomita/foicedetect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
@@ -140,17 +137,6 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 </div>
 
 ## 📊 GitHub Stats
-
-<!-- Animated stats cards with improved visibility for white background -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shepe1304&theme=tokyonight&background=ffffff&border=2563eb&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakNum=1a1b27&sideNums=1a1b27&currStreakLabel=1a1b27&sideLabels=1a1b27&dates=6366f1" alt="GitHub Streak" />
-</div>
-
-<!-- Additional project cards with darker Tokyo Night theme -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_App_BE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-</div>
 
 <!-- GitHub trophies with updated theme for white background -->
 <div align="center">
