@@ -141,7 +141,7 @@ Previously, I was a **Research Assistant** at the **Digital Signal Processing An
 <!-- GitHub trophies with updated theme for white background -->
 <div align="center">
   <a href="https://github.com/Shepe1304">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=nord&row=1&column=6" />
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=nord&row=2&column=3" />
   </a>
 </div>
 
