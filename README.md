@@ -1,213 +1,57 @@
-# 👋 Hi there, I'm Giang (Quynh Giang Ho) a.k.a Shepe1304!
+# Hi, I'm Giang (a.k.a Shepe1304) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Application+Developer;Research+Assistant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=400&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;4x+Hackathon+Winner" alt="Typing SVG" />
 </div>
 
-<!-- Animated social badges with hover effect -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/quynhgiangho/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:hqgiang1346@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Shepe1304">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/quynhgiangho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ <a href="https://devpost.com/Shepe1304">
+    <img src="https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost" />
+</a>
 </div>
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
-</div>
+---
 
-## 🚀 About Me
+## 💫 About Me
 
-<div>Computer Science student @ University of South Florida (Judy Genshaft Honors College), 4.0 GPA</div>
-<div>4x Hackathon Winner, 80% Victory Rate</div>
-<div>I enjoy solving complex problems with elegant technical solutions.</div>
+- 🎓 **Computer Science @ University of South Florida** (Judy Genshaft Honors College) - **4.0 GPA**
+- 🏆 **4x Hackathon Winner** with **$3,500+ in prizes** across major competitions
+- 🔬 **Research Experience:** DESLab (AI image reconition)
+- 🌟 **Awards:** Green & Gold Presidential Scholar, Genspiration Global Explorers, Dean's List
 
-<!-- Animated tech stack icons -->
-## 🧠 Technical Expertise
+---
 
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,html,css&perline=8" />
-  
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,express,nextjs,tensorflow&perline=6" />
-  
-  <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase&perline=4" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode&perline=5" />
-</div>
-
-<!-- Female coding animation -->
-<div align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
-</div>
-
-<!-- Animated award badge replaced with text -->
-<div align="center">
-  <h2>🏆 AWARDS & ACHIEVEMENTS 🏆</h2>
-</div>
-
-## 🏆 Hackathon Achievements
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td>🏆 HackUSF - <b>Best AI Healthcare</b> (2025)</td>
-      <td>🏆 Azure AI Developer Hackathon - <b>1st Place</b> (2025)</td>
-    </tr>
-    <tr>
-      <td>🏆 Nosu AI Hackathon - <b>Best Cybersecurity Project</b> (2025)</td>
-      <td>🏆 4x Hackathon Winner</td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,opencv,postgres,sqlite,mongodb,firebase,supabase,git,azure,aws&perline=10" />
 </div>
 
-## 🎓 Honors and Awards
+---
 
-<div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td>🎓 USF Green & Gold Presidential Scholarship</td>
-      <td>🎓 Dean's List (USF)</td>
-    </tr>
-    <tr>
-      <td>🌍 Genspiration Global Explorers</td>
-      <td>🏅 3rd Place at PTNK Initiative in Interdisciplinary Science & Engineering Research Symposium</td>
-    </tr>
-  </table>
-</div>
+## 🚀 Featured Projects
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
-</div>
+- 🏆 [**SafeGuard**](https://devpost.com/software/safeguard-oq572w): AI-powered elderly care platform - **Best AI Healthcare (HackUSF 2025) - $200**
+- 🥇 [**Chatlas**](https://devpost.com/software/chatlas): Multilingual real-time chat app - **Best Azure Integration (Azure AI Hackathon) - $3,000**  
+- 🏅 [**FoiceDetect**](https://github.com/dahomita/foicedetect): Deepfake voice detection system - **Best Cybersecurity (Nosu AI Hackathon) - $325**
 
-## 🔭 Featured Projects
-
-<!-- Project cards with updated darker Tokyo Night theme for better visibility on white background -->
-<div align="center">
-  <a href="https://github.com/VanKhanhAnny/gnec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanKhanhAnny&repo=gnec&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  </a>
-  <a href="https://github.com/MinhhQuangg/Azure_Hack_FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhhQuangg&repo=Azure_Hack_FE&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  </a>
-  <a href="https://github.com/dahomita/foicedetect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahomita&repo=foicedetect&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  </a>
-  <a href="https://github.com/Shepe1304/pathFinder_visibilityGraph_djikstra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shepe1304&repo=pathFinder_visibilityGraph_djikstra&theme=tokyonight&bg_color=ffffff&title_color=1a1b27&text_color=1a1b27&icon_color=2563eb&border_color=2563eb" />
-  </a>
-</div>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
-</div>
-
-## 🔬 Research Experience
-
-Currently working as an **Application Developer & Researcher** at the **LAM²P Laboratory**, where I'm developing AI-based classification models for superhydrophobic surfaces and building efficient data extraction pipelines.
-
-Previously, I was a **Research Assistant** at the **Digital Signal Processing And Embedded Systems Laboratory (DESLab)**, implementing CNN and YOLOv8 on Jetson Nano for real-time blink rate calculation in lie-detection analysis.
-
-🏆 **3rd Place at PTNK Initiative in Interdisciplinary Science & Engineering Research Symposium**
-
-<!-- Female researcher animation -->
-<div align="center">
-  <img alt="Research" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
-</div>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
-</div>
+---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub trophies with updated theme for white background -->
 <div align="center">
-  <a href="https://github.com/Shepe1304">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Shepe1304&theme=nord&row=2&column=3" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shepe1304&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shepe1304&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
 </div>
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
-</div>
+---
 
-## 🌱 Currently Learning
-
-<!-- Animated learning bullets -->
-<div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Frontend Development</td>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Backend Development</td>
-    </tr>
-    <tr>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Advanced Natural Language Processing</td>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Computer Vision with Deep Learning</td>
-    </tr>
-    <tr>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Cloud Architecture & DevOps</td>
-      <td><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Microservices Architecture</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQxbmdrZnEzcDdtenNzNGQ3aTlvdnZ3Z3l2NG9wbWJiMnFhMm4zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" /> Blockchain Development</td>
-    </tr>
-  </table>
-</div>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider">
-</div>
-
-## 📈 Activity Graph
-
-<!-- Animated activity graph with darker colors for better visibility -->
-<div align="center">
-  <img alt="Quynh Giang Ho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shepe1304&theme=minimal&bg_color=ffffff&color=1a1b27&line=2563eb&point=3b82f6&area=true&hide_border=false" />
-</div>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider">
-</div>
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you want to discuss tech, research, or potential projects!
-
-<!-- Animated social links with hover effect -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/quynhgiangho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hqgiang1346@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<!-- Animated wave bottom -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=footer" />
-
-<!-- Visitor counter with animation -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shepe1304&color=2563eb&style=flat-square" alt="Profile views"/>
 </div>
