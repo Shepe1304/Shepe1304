@@ -22,7 +22,7 @@
 
 - 🎓 **Computer Science @ University of South Florida** (Judy Genshaft Honors College) - **4.0 GPA**
 - 🏆 **4x Hackathon Winner** with **$3,500+ in prizes** across major competitions
-- 🔬 **Research Experience:** DESLab (AI image reconition)
+- 🔬 **Research Experience:** DESLab (Image reconition)
 - 🌟 **Awards:** Green & Gold Presidential Scholar, Genspiration Global Explorers, Dean's List
 
 ---
