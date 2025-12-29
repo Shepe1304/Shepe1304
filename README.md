@@ -1,7 +1,7 @@
 # Hi, I'm Giang (a.k.a Shepe1304) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=400&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;4x+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=400&lines=Software+Engineer;Tech+Enthusiast;4x+Hackathon+Winner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,opencv,postgres,sqlite,mongodb,firebase,supabase,git,azure,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,mongodb,firebase,supabase,git&perline=10" />
 </div>
 
 ---
