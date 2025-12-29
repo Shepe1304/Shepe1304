@@ -41,16 +41,7 @@
 - 🥇 [**Chatlas**](https://devpost.com/software/chatlas): Multilingual real-time chat app - **Best Azure Integration (Azure AI Hackathon) - $3,000**  
 - 🏅 [**FoiceDetect**](https://github.com/dahomita/foicedetect): Deepfake voice detection system - **Best Cybersecurity (Nosu AI Hackathon) - $325**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shepe1304&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shepe1304&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
-</div>
-
----
+</br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shepe1304&color=2563eb&style=flat-square" alt="Profile views"/>
