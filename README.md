@@ -18,17 +18,17 @@
 ## 💫 About Me
 
 - 🎓 **Computer Science @ University of South Florida** (Judy Genshaft Honors College) - **4.0 GPA**
-- 🏆 **4x Hackathon Winner** with **$3,500+ in prizes** across major competitions
-- 🔬 **Research Experience:** DESLab (Image recognition)
-- 🌟 **Awards:** Green & Gold Presidential Scholar, Genspiration Global Explorers, Dean's List
+- 🏆 **5x Hackathon Winner** with **$3,500+ in prizes** across major competitions: HackUSF (Best AI Healthcare), Azure
+AI Developer Hackathon (Best Azure App Integration), Nosu AI Hackathon (Best Cybersecurity)
+- 🌟 **Awards:** Florida High Tech Corridor Grant, Green & Gold Presidential Scholar, Genspiration Global Explorers, Dean's List
 
 ---
 
-## 🛠️ Tech Stack
+//## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,mongodb,firebase,supabase,git&perline=10" />
-</div>
+//<div align="center">
+//  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,mongodb,firebase,supabase,git&perline=10" />
+//</div>
 
 ---
 
