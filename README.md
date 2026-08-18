@@ -1,10 +1,6 @@
 # Hi, I'm Giang (a.k.a Shepe1304) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=400&lines=Software+Engineer;Tech+Enthusiast;4x+Hackathon+Winner" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/quynhgiangho/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,24 +9,12 @@
 </a>
 </div>
 
----
-
 ## 💫 About Me
 
 - 🎓 **Computer Science @ University of South Florida** (Judy Genshaft Honors College) - **4.0 GPA**
 - 🏆 **5x Hackathon Winner** with **$3,500+ in prizes** across major competitions: HackUSF (Best AI Healthcare), Azure
 AI Developer Hackathon (Best Azure App Integration), Nosu AI Hackathon (Best Cybersecurity)
 - 🌟 **Awards:** Florida High Tech Corridor Grant, Green & Gold Presidential Scholar, Genspiration Global Explorers, Dean's List
-
----
-
-//## 🛠️ Tech Stack
-
-//<div align="center">
-//  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,cpp,cs,react,django,nodejs,express,nextjs,dotnet,mongodb,firebase,supabase,git&perline=10" />
-//</div>
-
----
 
 ## 🚀 Featured Projects
 
