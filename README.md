@@ -1,4 +1,4 @@
-# Hi, I'm Giang (a.k.a Shepe1304) 👋
+# Hi 👋, I'm Giang (Shepe1304)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/quynhgiangho/">
